@@ -13,7 +13,7 @@ Ingredienten:
 	1   el 		suiker
 	2   el 		extra vierge olijfolie
 	1		ei
-	strooien	Maanzaad of sesamzaad ter decoratie.
+	strooien	Maanzaad of sesamzaad
 	
 Bereiding:
 	Alles precies afwegen met een nauwkeurige weegschaal.
