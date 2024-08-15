@@ -9,7 +9,7 @@ Ingredienten bouillon:
 	1,5	L	water
 	
 Ingredienten snert:
-	250	g	geweekte erwten
+	250	g	geweekte spliterwten
 	300	g	winterpeen
 	250	g	prei
 	1/2		knolselderij
