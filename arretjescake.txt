@@ -8,7 +8,7 @@ Ingredienten:
 	300	g	theebiscuit
 	250	g	roomboter
 	30	g	cacao
-	1		*rauw ei (optioneel)
+	1		rauw ei (optioneel)
 	
 Bereiding:
 	Roomboter smelten.
@@ -21,4 +21,4 @@ Bereiding:
 	Het beslag overdoen in het cakeblik.
 	Laten opstijven in de koelkast gedurende 4 uur of een nacht.
 	
-rauw ei: Kan kans op Salmonella besmetting geven.
+
