@@ -1,0 +1,28 @@
+# AUTHOR:			BJ Veurink
+# NAME: 			Oud bergentheimse kruidkoek
+# LICENSE:			Creative Commons Zero v1.0 Universal
+
+Ingredienten:
+	400	g	*Zelfrijzend bakmeel
+	400	g	Donkere Basterdsuiker
+	2	el	*Speculaaskruiden
+	400	ml	Volle melk
+	
+Bereiding:
+	Cakeblik met bakpapier bekleden.
+	Oven voorverwarmen op 180 graden Celsius.	
+	Alle ingredienten met mixer mengen.
+	Klontjes eruit mixen.
+	Beslag in het cakeblik doen.
+	60 minuten bakken in de oven of totdat het gaar is.
+	Controleer met een sate prikker of de cake gaar is.
+	
+Zelfrijzend bakmeel kun je maken door 500 g bloem met 4 tl baking soda mengen.
+Speculaaskruiden:
+	11	deel	kaneel
+	1	deel	nootmuskaat
+	5	deel	korianderzaad
+	1	deel	kardemom
+	1/2	deel	kruidnagel
+	1	deel	piment
+	1	deel	gemberpoeder
