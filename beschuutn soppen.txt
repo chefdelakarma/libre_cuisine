@@ -6,8 +6,8 @@ Ingredienten:
 	1/2		witbrood
 	1/2	pak	beschuut'n
 	250	ml	melk
-			roomboter
-			donkere basterdsuiker
+	100	g	roomboter
+	100	g	donkere basterdsuiker
 			
 Bereiding:
 	De oven voorverwarmen ooop 180 graden.
